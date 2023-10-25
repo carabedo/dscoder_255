@@ -136,7 +136,7 @@
 
 **Clase 20 - Stack Tecnológico I**
 
-*   [**Repaso para Desafio**](https://colab.research.google.com/drive/1D0VBkIhMw5iP9Ry-RhZfZJwtkR84qnPL?usp=sharing)
+*   [Repaso para Desafio](https://colab.research.google.com/drive/1D0VBkIhMw5iP9Ry-RhZfZJwtkR84qnPL?usp=sharing)
 *   Bases de datos
 
 **Clase 21 - Stack Tecnológico II**
