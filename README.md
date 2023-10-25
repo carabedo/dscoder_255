@@ -114,7 +114,7 @@
 *   Outliers
 *   Imputacion
 *   Dummies
-*   **Practica: Imputar usando groupby **
+*   **Practica: Imputar usando groupby**
 
 
 **Clase 17 - Estudios de casos de Modelos Analíticos II**
@@ -122,24 +122,24 @@
 *   Casos de Exito
 *   **Desafio: EDA**
 
-**Clase 18 - Bias/Variance **
+**Clase 18 - Bias/Variance**
 
 *   Overfitting/Underfitting
 *   Feature Selection
 
-**Clase 19 - Validación de Modelos **
+**Clase 19 - Validación de Modelos**
 
 *   Bias/Variance
 *   Metricas
 *   [CrossValidation](https://colab.research.google.com/drive/1mJ_nW2X5-L1XxqzQmJ04k4WNwfMTru_m?usp=sharing)
-*   **Desafio: Feature Selection y Validacion **
+*   **Desafio: Feature Selection y Validacion**
 
-**Clase 20* - Stack Tecnológico I**
+**Clase 20 - Stack Tecnológico I**
 
 *   [**Repaso para Desafio**](https://colab.research.google.com/drive/1D0VBkIhMw5iP9Ry-RhZfZJwtkR84qnPL?usp=sharing)
 *   Bases de datos
 
-**Clase 21* - Stack Tecnológico II**
+**Clase 21 - Stack Tecnológico II**
 
 *   Intro IA
 *   **Socializacion de Proyectos**
