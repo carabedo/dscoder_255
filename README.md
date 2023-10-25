@@ -156,11 +156,7 @@
 
 **Clase 23 - Webscraping**
 
-*   Github
-*   Practica:
-*   Buscar e importar en vivo data
-*   Joblib
-*   Exportar CSV
+*   Webscraping
 
 **Clase 24 - Fundamentos de bases de datos**
 
@@ -175,10 +171,12 @@
 
 *   CREATE ALTER DROP TRUNCATE
 *   SELECT INSERT UPDATE DELETE
+*   [SQL](https://colab.research.google.com/drive/1eVRb9jvVtkElpj6BkFyXMWykJ3el4Hx8?usp=drive_link)
 
 **Clase 26 - SQL II**
 
 *   JOINS
+*   [SQL](https://colab.research.google.com/drive/1eVRb9jvVtkElpj6BkFyXMWykJ3el4Hx8?usp=drive_link)
 
 **Clase 27 - APIs**
 
@@ -187,4 +185,4 @@
 *   GET/POST
 *   JSON
 *   APIs/Requests
-*   Autentificacion
+
